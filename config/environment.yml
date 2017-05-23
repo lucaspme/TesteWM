@@ -1,0 +1,5 @@
+api:
+  jsonplaceholder: 'http://jsonplaceholder.typicode.com'
+
+front:
+  wallmart:
